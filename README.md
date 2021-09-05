@@ -7,7 +7,7 @@ The [Windi CSS](https://windicss.org/) Plugin for **Aleph.js**.
 ```ts
 // aleph.config.ts
 
-import windicss from 'https://deno.land/x/aleph_plugin_windicss@v0.2.0/plugin.ts'
+import windicss from 'https://deno.land/x/aleph_plugin_windicss@v0.0.2/plugin.ts'
 import type { Config } from 'aleph/types'
 
 export default <Config>{
